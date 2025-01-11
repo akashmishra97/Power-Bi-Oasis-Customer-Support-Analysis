@@ -33,7 +33,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/customer-support-analysis.git
-## Getting Started
 
 2. ### Open the Power BI file
 1. Navigate to the cloned repository folder.
