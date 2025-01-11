@@ -35,16 +35,16 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/yourusername/customer-support-analysis.git
 
 2. ### Open the Power BI file
-1. Navigate to the cloned repository folder.
-2. Open the `CustomerSupportAnalysis.pbix` file with Power BI Desktop.
+- Navigate to the cloned repository folder.
+- Open the `CustomerSupportAnalysis.pbix` file with Power BI Desktop.
 
 3. ### Run R scripts
-1. Execute the provided R scripts located in the `scripts` folder to preprocess the data as required.
+- Execute the provided R scripts located in the `scripts` folder to preprocess the data as required.
 
 4. ### Refresh the data source
-1. Make sure all data connections are refreshed in Power BI Desktop to ensure the visuals are updated correctly.
+ - Make sure all data connections are refreshed in Power BI Desktop to ensure the visuals are updated correctly.
 
 ## Usage
 
-Utilize the dashboard by selecting different filters and slicers to view and analyze specific data points. The interactive features allow you to explore various aspects of customer support performance, helping identify trends and areas for improvement.
+- Utilize the dashboard by selecting different filters and slicers to view and analyze specific data points. The interactive features allow you to explore various aspects of customer support performance, helping identify trends and areas for improvement.
 
