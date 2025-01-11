@@ -14,7 +14,6 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 ## Technologies Used
 
 - **Power BI:** For creating and hosting the dashboard.
-- **R:** Utilized for data cleansing and preprocessing tasks.
 - **DAX (Data Analysis Expressions):** Used for calculations within Power BI.
 - **Microsoft Excel:** Employed for initial data manipulation and cleaning.
 
